@@ -54,7 +54,7 @@ Ensure you have Python 3.7+ installed on your system.
 
 ### Installation
 1. **Clone the repository**
-git clone https://github.com/vaibhavr54/Income-Classification-with-SMOTE-and-GridSearch.git
+git clone https://github.com/vaibhavr54/Income-Classification-with-SMOTE-and-GridSearchCV.git
 
 cd Income-Classification-with-SMOTE-and-GridSearch
 
